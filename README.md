@@ -1,6 +1,6 @@
 # Objective
 
-The objective of this repository is to provide a list of projects that use the
+The objective of this repository is to provide a [list of projects](./list.md) that use the
 verification-friendly programming language [Dafny](https://github.com/dafny-lang/dafny).
 
 # Usage
@@ -30,3 +30,4 @@ Some minimal information should be provided about the project among them:
 * a way to replicate the results, e.g. a Docker container. Dafny is under constant improvement, so it may be good to archive a project code/dafny version pair to be able to replicate the results.
 
 And any other suggestions are most welcome! 
+
